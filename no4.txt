@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Will you be my Valentine</title>
+        <title>Why No</title>
 
         <link rel="stylesheet" href="./style.css"/>
         <meta charset="UTF-8"/>
@@ -12,14 +12,12 @@
     <body>
         <div class="container">
             <div class="tenor-gif-embed" data-postid="736742329535463229" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sad-gif-736742329535463229">Sad GIF</a>from <a href="https://tenor.com/search/sad-gifs">Sad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-            <h1>Will you be my Valentine, Marthena ?</h1>
+            <h1>Aww</h1>
 
             <div class="btn">
                 <a href="yes.html">Yes</a>
                 <a href="no1.html">No</a>
             </div>
         </div>
-
-        <script src="./script.js"></script>
     </body>
 </html>
