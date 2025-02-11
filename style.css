@@ -33,7 +33,7 @@ body {
     gap: 25px;
 }
 
-.btn .a {
+.btn a {
     text-decoration: none;
     color: #111;
     background: #fff;
